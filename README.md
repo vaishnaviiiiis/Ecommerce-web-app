@@ -1,4 +1,4 @@
 # Amazon
 This is my first git repository.
 </br>
-Author-Vaishnavii
+Author-Vaishnavi
